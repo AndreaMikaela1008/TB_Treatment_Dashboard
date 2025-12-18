@@ -1,0 +1,28 @@
+Dataset Shape: (641, 24)
+Columns: ['country', 'iso2', 'iso3', 'iso_numeric', 'g_whoregion', 'year', 'report_frequency', 'report_coverage', 'm_01', 'm_02', 'm_03', 'm_04', 'm_05', 'm_06', 'm_07', 'm_08', 'm_09', 'm_10', 'm_11', 'm_12', 'q_1', 'q_2', 'q_3', 'q_4']
+Missing Values:
+country               0
+iso2                  6
+iso3                  0
+iso_numeric           0
+g_whoregion           0
+year                  0
+report_frequency      0
+report_coverage      99
+m_01                212
+m_02                213
+m_03                217
+m_04                234
+m_05                257
+m_06                264
+m_07                309
+m_08                314
+m_09                316
+m_10                331
+m_11                346
+m_12                362
+q_1                 430
+q_2                 460
+q_3                 483
+q_4                 519
+dtype: int64
